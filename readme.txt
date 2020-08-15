@@ -1,0 +1,4 @@
+- buy kenyér
+- buy tej
+- buy csoki
+- buy cukor

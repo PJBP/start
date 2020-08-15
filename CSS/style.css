@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "roboto";
+    src: url("/Start/CSS/fonts/Roboto/Roboto-Regular.ttf");
+    font-weight: 400px;
+}
+@font-face {
+    font-family: "roboto-light";
+    src: url("/Start/CSS/fonts/Roboto/Roboto-Light.ttf");
+    font-weight: 100px;
+}
+
+h1 {
+    color: rgb(10, 25, 235);
+    font-family: "roboto";
+    text-align: center;
+}
+
+p {
+    color: navy; 
+    font-size: 18px;
+    font-family: "roboto-light";
+    text-transform: normal;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+}
