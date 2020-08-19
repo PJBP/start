@@ -13,17 +13,48 @@ h1 {
     color: rgb(10, 25, 235);
     font-family: "roboto";
     text-align: center;
+    padding: 15px 0 0 ;
+    border: solid 2px;
+    max-width: 20%;
 }
 
-p {
-    color: navy; 
+.content {
+    color: rgb(216, 43, 43); 
     font-size: 18px;
     font-family: "roboto-light";
     text-transform: normal;
+    border: solid 1px black
+}
+.content-2 {
+    color: rgb(124, 48, 168);
+    font-size: 19px;
+    font-family: "roboto-light";
+    border: dashed 2px red
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 7%; */ide lehet px ben is megadni a méreteket
+    height: 7%;
+    box-shadow: 10px 10px 7px black;
+    margin: 2.5%;
     
+}
+.bold {
+    font-weight: bolder;
+}
+
+.img-div {
+    background-color: plum;
+    margin-left: 10px;
+ 
+}
+.img-div-2 {
+    background-color: rgb(99, 66, 151);
+}
+
+#img-1 {
+    visibility: visible;
+    position: fixed;
+    top: 1px;
+    left: 1px;
 }
