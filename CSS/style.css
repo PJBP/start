@@ -13,9 +13,9 @@ h1 {
     color: rgb(10, 25, 235);
     font-family: "roboto";
     text-align: center;
-    padding: 15px 0 0 ;
-    border: solid 2px;
-    max-width: 20%;
+    padding: 5px 0 0 ;
+    border: solid 2px;;
+    display: inline-block;
 }
 
 .content {
@@ -23,7 +23,8 @@ h1 {
     font-size: 18px;
     font-family: "roboto-light";
     text-transform: normal;
-    border: solid 1px black
+    border: solid 1px black;
+    
 }
 .content-2 {
     color: rgb(124, 48, 168);
