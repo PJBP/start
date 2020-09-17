@@ -2,6 +2,10 @@ body {
     background-color: #f0f0f0
 }
 
+element.style {
+    background-color: lightyellow;
+}
+
 .login-div {
     padding: 15px;
     border: solid 1px;
